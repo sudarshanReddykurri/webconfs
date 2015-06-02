@@ -1,0 +1,9 @@
+---
+title:  "Welcome to Jekyll!"
+date:   2015-06-02 
+author: guest
+image: sass-conf.jpg
+layout: "post"
+---
+
+Sometimes we might repeat variables from post to post because they share the same configuration settings. In this video, you'll learn how to make your code DRYer with default variables. 
